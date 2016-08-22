@@ -18,5 +18,8 @@ npm run build
 ## demo
 [cnodejs-vue](http://demo.bitibiti.com/cnodejs-vue/)
 
-## coding 
+## coding
 git push -u coding master
+
+## github
+git push -u origin  master
